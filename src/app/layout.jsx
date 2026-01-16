@@ -44,13 +44,9 @@ export default function RootLayout({ children }) {
       >
         <AuthProvider>
           <ProductProvider>
+            <PathDetector />
+            {!isLoginPage && <Navbar />}
             <SmoothScroll>
-              <PathDetector />
-              {!isLoginPage && (
-                <div className="navbar-wrapper">
-                  <Navbar />
-                </div>
-              )}
               <div className="content-wrapper">
                 {children}
               </div>

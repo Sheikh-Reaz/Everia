@@ -11,7 +11,7 @@ const Navbar = () => {
 
   useEffect(() => {
     const handleScroll = () => {
-      setIsScrolled(window.scrollY > 50);
+      setIsScrolled(window.scrollY > 20);
     };
     window.addEventListener("scroll", handleScroll);
     return () => window.removeEventListener("scroll", handleScroll);
@@ -37,14 +37,15 @@ const Navbar = () => {
   return (
     <>
       <nav
-        className={`fixed top-0 left-0 right-0 z-50 flex items-center justify-between px-6 py-4 md:px-12 md:py-6 transition-all duration-500 ${
+        className={`fixed top-0 left-0 right-0 z-50 flex items-center justify-between px-6 py-4 md:px-12 md:py-6 transition-all duration-700 ease-in-out ${
           isScrolled 
-            ? "bg-white/70 backdrop-blur-xl shadow-lg border-b border-white/20" 
+            ? "bg-white/80 backdrop-blur-md shadow-xl border-b border-white/30" 
             : "bg-transparent"
         }`}
         style={isScrolled ? {
-          backdropFilter: "blur(20px) saturate(180%)",
-          WebkitBackdropFilter: "blur(20px) saturate(180%)",
+          backdropFilter: "blur(16px) saturate(180%)",
+          WebkitBackdropFilter: "blur(16px) saturate(180%)",
+          backgroundColor: "rgba(255, 255, 255, 0.8)",
         } : {}}
       >
         <a href="/" className="flex items-center gap-1 hover:opacity-80 transition-opacity">
