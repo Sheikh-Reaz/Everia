@@ -1,0 +1,298 @@
+[
+  {
+    "id": 1,
+    "name": "iPhone 15 Pro Max",
+    "category": "Smartphones",
+    "price": "$1,199",
+    "oldPrice": "$1,299",
+    "images": [
+      "https://images.unsplash.com/photo-1741061963569-9d0ef54d10d2?w=800",
+      "https://images.unsplash.com/photo-1741061963569-9d0ef54d10d2?w=800",
+      "https://images.unsplash.com/photo-1741061963569-9d0ef54d10d2?w=800"
+    ],
+    "rating": 4.9,
+    "reviews": 1250,
+    "stock": 45,
+    "discount": "8%",
+    "description": "The iPhone 15 Pro Max represents the pinnacle of smartphone technology, featuring the revolutionary A17 Pro chip, a stunning Super Retina XDR display, and an advanced camera system that captures professional-quality photos and videos.",
+    "features": [
+      "A17 Pro chip with 6-core GPU",
+      "6.7-inch Super Retina XDR display",
+      "Pro camera system with 48MP main",
+      "Titanium design with textured matte glass",
+      "Action button for quick shortcuts",
+      "All-day battery life",
+      "iOS 17 with latest features",
+      "5G capable with eSIM"
+    ],
+    "specs": [
+      { "label": "Display", "value": "6.7-inch OLED" },
+      { "label": "Processor", "value": "A17 Pro" },
+      { "label": "RAM", "value": "8GB" },
+      { "label": "Storage", "value": "256GB / 512GB / 1TB" },
+      { "label": "Camera", "value": "48MP Main, 12MP Ultra Wide, 12MP Telephoto" },
+      { "label": "Battery", "value": "4,422 mAh" },
+      { "label": "Charging", "value": "USB-C, MagSafe, Qi wireless" },
+      { "label": "Weight", "value": "221g" }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Sony WH-1000XM5",
+    "category": "Headphones",
+    "price": "$399",
+    "oldPrice": "$449",
+    "images": [
+      "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=800",
+      "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=800",
+      "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=800"
+    ],
+    "rating": 4.8,
+    "reviews": 890,
+    "stock": 32,
+    "discount": "11%",
+    "description": "Industry-leading noise cancellation with premium sound quality. The Sony WH-1000XM5 delivers exceptional audio performance with advanced noise canceling technology, making it perfect for travel, work, or relaxation.",
+    "features": [
+      "Industry-leading noise cancellation",
+      "30-hour battery life",
+      "Multipoint connection",
+      "Speak-to-Chat technology",
+      "Premium comfort design",
+      "LDAC and DSEE Extreme support",
+      "Touch sensor controls",
+      "Quick charging capability"
+    ],
+    "specs": [
+      { "label": "Driver Unit", "value": "30mm" },
+      { "label": "Frequency Response", "value": "4Hz-40,000Hz" },
+      { "label": "Battery Life", "value": "30 hours (ANC on)" },
+      { "label": "Charging", "value": "USB-C" },
+      { "label": "Weight", "value": "250g" },
+      { "label": "Bluetooth", "value": "5.2" },
+      { "label": "Codecs", "value": "LDAC, AAC, SBC" },
+      { "label": "Microphones", "value": "8 microphones for calls" }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Apple Watch Ultra 2",
+    "category": "Smartwatches",
+    "price": "$799",
+    "oldPrice": "$849",
+    "images": [
+      "https://images.unsplash.com/photo-1719744755507-a4c856c57cf7?w=800",
+      "https://images.unsplash.com/photo-1719744755507-a4c856c57cf7?w=800",
+      "https://images.unsplash.com/photo-1719744755507-a4c856c57cf7?w=800"
+    ],
+    "rating": 5.0,
+    "reviews": 567,
+    "stock": 18,
+    "discount": "6%",
+    "description": "The most rugged and capable Apple Watch ever. Designed for endurance athletes, outdoor adventurers, and water sports enthusiasts with precision dual-frequency GPS and up to 36 hours of battery life.",
+    "features": [
+      "49mm titanium case",
+      "Brightest Apple display ever",
+      "Precision dual-frequency GPS",
+      "Up to 36 hours battery life",
+      "100m water resistance",
+      "Depth gauge and water temperature sensor",
+      "Siren for emergencies",
+      "Customizable Action button"
+    ],
+    "specs": [
+      { "label": "Display", "value": "1.92-inch LTPO OLED" },
+      { "label": "Processor", "value": "S9 SiP" },
+      { "label": "Storage", "value": "64GB" },
+      { "label": "Battery", "value": "36 hours normal use" },
+      { "label": "Water Resistance", "value": "100m" },
+      { "label": "Connectivity", "value": "LTE, Wi-Fi, Bluetooth 5.3" },
+      { "label": "Sensors", "value": "Heart rate, ECG, Blood oxygen, Temperature" },
+      { "label": "Weight", "value": "61.4g" }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "AirPods Pro 2",
+    "category": "Earbuds",
+    "price": "$249",
+    "oldPrice": "$299",
+    "images": [
+      "https://images.unsplash.com/photo-1598371611276-1bc503a270a4?w=800",
+      "https://images.unsplash.com/photo-1598371611276-1bc503a270a4?w=800",
+      "https://images.unsplash.com/photo-1598371611276-1bc503a270a4?w=800"
+    ],
+    "rating": 4.9,
+    "reviews": 2100,
+    "stock": 67,
+    "discount": "17%",
+    "description": "Next-level Active Noise Cancellation and Adaptive Transparency. Personalized Spatial Audio with dynamic head tracking for immersive sound. All-new design with four pairs of silicone tips for a customizable fit.",
+    "features": [
+      "Active Noise Cancellation",
+      "Adaptive Transparency mode",
+      "Personalized Spatial Audio",
+      "H2 chip for enhanced performance",
+      "Up to 6 hours listening time",
+      "MagSafe charging case",
+      "IPX4 sweat and water resistant",
+      "Touch control"
+    ],
+    "specs": [
+      { "label": "Chip", "value": "Apple H2" },
+      { "label": "Battery Life", "value": "6 hours (ANC on)" },
+      { "label": "Case Battery", "value": "30 hours total" },
+      { "label": "Charging", "value": "MagSafe, Lightning, Qi wireless" },
+      { "label": "Water Resistance", "value": "IPX4" },
+      { "label": "Bluetooth", "value": "5.3" },
+      { "label": "Weight", "value": "5.3g per earbud" },
+      { "label": "Sensors", "value": "Skin-detect, motion-detecting accelerometer" }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Samsung Galaxy S24",
+    "category": "Smartphones",
+    "price": "$899",
+    "oldPrice": "$999",
+    "images": [
+      "https://images.unsplash.com/photo-1610945415295-d9bbf067e59c?w=800",
+      "https://images.unsplash.com/photo-1610945415295-d9bbf067e59c?w=800",
+      "https://images.unsplash.com/photo-1610945415295-d9bbf067e59c?w=800"
+    ],
+    "rating": 4.8,
+    "reviews": 1450,
+    "stock": 23,
+    "discount": "10%",
+    "description": "Meet Galaxy AI. The new Samsung Galaxy S24 brings powerful AI features to your fingertips with the Snapdragon 8 Gen 3 processor, stunning AMOLED display, and advanced camera system with AI-powered enhancements.",
+    "features": [
+      "Snapdragon 8 Gen 3 processor",
+      "6.2-inch Dynamic AMOLED 2X display",
+      "50MP main camera with AI enhancements",
+      "Galaxy AI features built-in",
+      "All-day intelligent battery",
+      "Armor Aluminum frame",
+      "One UI 6.1 with Android 14",
+      "5G connectivity"
+    ],
+    "specs": [
+      { "label": "Display", "value": "6.2-inch AMOLED 2X" },
+      { "label": "Processor", "value": "Snapdragon 8 Gen 3" },
+      { "label": "RAM", "value": "8GB" },
+      { "label": "Storage", "value": "128GB / 256GB" },
+      { "label": "Camera", "value": "50MP Main, 12MP Ultra Wide, 10MP Telephoto" },
+      { "label": "Battery", "value": "4,000 mAh" },
+      { "label": "Charging", "value": "25W wired, 15W wireless" },
+      { "label": "Weight", "value": "167g" }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Bose QuietComfort 45",
+    "category": "Headphones",
+    "price": "$329",
+    "oldPrice": "$379",
+    "images": [
+      "https://images.unsplash.com/photo-1546435770-a3e426bf472b?w=800",
+      "https://images.unsplash.com/photo-1546435770-a3e426bf472b?w=800",
+      "https://images.unsplash.com/photo-1546435770-a3e426bf472b?w=800"
+    ],
+    "rating": 4.7,
+    "reviews": 780,
+    "stock": 41,
+    "discount": "13%",
+    "description": "Legendary noise cancellation meets premium comfort. The Bose QuietComfort 45 delivers world-class noise cancellation, exceptional audio quality, and all-day comfort for the ultimate listening experience.",
+    "features": [
+      "Legendary noise cancellation",
+      "24-hour battery life",
+      "Aware Mode for ambient sound",
+      "Premium comfort materials",
+      "TriPort acoustic architecture",
+      "Adjustable EQ",
+      "Multipoint Bluetooth pairing",
+      "Foldable design with case"
+    ],
+    "specs": [
+      { "label": "Driver", "value": "40mm" },
+      { "label": "Frequency Response", "value": "20Hz-20,000Hz" },
+      { "label": "Battery Life", "value": "24 hours" },
+      { "label": "Charging", "value": "USB-C" },
+      { "label": "Weight", "value": "240g" },
+      { "label": "Bluetooth", "value": "5.1" },
+      { "label": "Range", "value": "30 feet" },
+      { "label": "Microphones", "value": "6 microphones" }
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Google Pixel Watch 2",
+    "category": "Smartwatches",
+    "price": "$349",
+    "oldPrice": "$399",
+    "images": [
+      "https://images.unsplash.com/photo-1579586337278-3befd40fd17a?w=800",
+      "https://images.unsplash.com/photo-1579586337278-3befd40fd17a?w=800",
+      "https://images.unsplash.com/photo-1579586337278-3befd40fd17a?w=800"
+    ],
+    "rating": 4.6,
+    "reviews": 445,
+    "stock": 29,
+    "discount": "13%",
+    "description": "Google's smartest watch yet. Powered by Wear OS 4 and featuring advanced health tracking with Fitbit integration, the Pixel Watch 2 combines style with comprehensive wellness features.",
+    "features": [
+      "Wear OS 4 by Google",
+      "Fitbit health tracking",
+      "Continuous heart rate monitoring",
+      "Stress management tools",
+      "Sleep tracking with Sleep Score",
+      "24-hour battery life",
+      "5ATM water resistance",
+      "Google Assistant built-in"
+    ],
+    "specs": [
+      { "label": "Display", "value": "1.2-inch AMOLED" },
+      { "label": "Processor", "value": "Snapdragon W5 Gen 1" },
+      { "label": "Storage", "value": "32GB" },
+      { "label": "Battery", "value": "24 hours" },
+      { "label": "Water Resistance", "value": "5ATM" },
+      { "label": "Connectivity", "value": "LTE, Wi-Fi, Bluetooth 5.0" },
+      { "label": "Sensors", "value": "Heart rate, ECG, SpO2, Skin temperature" },
+      { "label": "Weight", "value": "31g" }
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Anker PowerCore 20K",
+    "category": "Power Banks",
+    "price": "$69",
+    "oldPrice": "$89",
+    "images": [
+      "https://images.unsplash.com/photo-1609091839311-d5365f9ff1c5?w=800",
+      "https://images.unsplash.com/photo-1609091839311-d5365f9ff1c5?w=800",
+      "https://images.unsplash.com/photo-1609091839311-d5365f9ff1c5?w=800"
+    ],
+    "rating": 4.7,
+    "reviews": 3200,
+    "stock": 89,
+    "discount": "22%",
+    "description": "Ultra-high capacity portable charger with 20,000mAh battery. Features PowerIQ and VoltageBoost technology to deliver the fastest possible charge to any device. Perfect for extended trips and heavy users.",
+    "features": [
+      "20,000mAh capacity",
+      "PowerIQ 3.0 fast charging",
+      "Dual USB ports",
+      "USB-C input and output",
+      "Charges iPhone 12 up to 4 times",
+      "MultiProtect safety system",
+      "Compact and portable design",
+      "LED power indicator"
+    ],
+    "specs": [
+      { "label": "Capacity", "value": "20,000mAh / 72Wh" },
+      { "label": "Input", "value": "USB-C: 5V/3A, 9V/2A" },
+      { "label": "Output", "value": "USB-A: 5V/3A, 9V/2A, 12V/1.5A" },
+      { "label": "USB-C Output", "value": "5V/3A, 9V/2.22A, 12V/1.67A" },
+      { "label": "Total Output", "value": "18W max" },
+      { "label": "Recharge Time", "value": "10 hours (5V/2A)" },
+      { "label": "Weight", "value": "343g" },
+      { "label": "Dimensions", "value": "158 x 74 x 19mm" }
+    ]
+  }
+]
