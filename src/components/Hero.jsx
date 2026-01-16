@@ -88,7 +88,7 @@ useEffect(() => {
 
   return (
     <div className="relative w-full bg-[#FCFCF9] overflow-hidden font-sans pt-20">
-      <style jsx>{`
+      <style dangerouslySetInnerHTML={{__html: `
         .bg-grid-pattern {
           background-size: 130px 130px;
           background-image:
@@ -101,7 +101,7 @@ useEffect(() => {
           line-height: 0.8;
           letter-spacing: -0.02em;
         }
-      `}</style>
+      `}} />
 
       <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@700&display=swap" rel="stylesheet" />
       <div className="absolute inset-0 bg-grid-pattern z-0" />
